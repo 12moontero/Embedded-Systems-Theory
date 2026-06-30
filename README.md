@@ -1,2 +1,12 @@
-# C-C-Embebidos
-El repositorio donde estará todo lo que aprenderé de la programación de sistemas embebidos con C/C++. Estarán las explicaciones hechas por mí para nunca olvidarme.
+# Mastering Embedded C/C++
+En este repositorio voy a poner todo lo que voy a aprender por si se me olvida en el futuro volver a ver cómo lo entendí todo, y lo subo por si te ayuda como me ayudará a mí.
+
+### Ruta de Aprendizaje
+
+- 01-Hardware Basics: Qué es un procesador, registros, bits y la autopista de datos.
+
+- 02-C-Language: Punteros, gestión de memoria y lógica binaria (AND/OR/XOR).
+
+- 03-Embedded-Patterns: Cómo programar sin Windows (Interrupciones, estados, temporizadores).
+
+- 04-Advanced-Concepts: Comunicación entre chips (I2C, SPI) y arquitectura avanzada.
