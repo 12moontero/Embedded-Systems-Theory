@@ -21,8 +21,8 @@ Un procesador tiene contenido dentro que se llaman **registros** pero para nosot
 
 Los registros son **estanterías fijas** dentro de la CPU donde se guardan los datos para trabajar. No se mueven; lo que cambia es su contenido (se copia y se sobrescribe).
 
-![Registro]([01-Hardware-Basics/assets/Registro.png](https://raw.githubusercontent.com/12moontero/Embedded-Systems-Theory/refs/heads/main/01-Hardware-Basics/assets/Registro.png)     
-![Concepto-CPU]([01-Hardware-Basics/assets/Concepto-CPU.png](https://raw.githubusercontent.com/12moontero/Embedded-Systems-Theory/refs/heads/main/01-Hardware-Basics/assets/Concepto-CPU.png)
+![Registro]([01-Hardware-Basics/assets/Registro.png](https://raw.githubusercontent.com/12moontero/Embedded-Systems-Theory/refs/heads/main/01-Hardware-Basics/assets/Registro.png))     
+![Concepto-CPU]([01-Hardware-Basics/assets/Concepto-CPU.png](https://raw.githubusercontent.com/12moontero/Embedded-Systems-Theory/refs/heads/main/01-Hardware-Basics/assets/Concepto-CPU.png))
 
 ### ¿Cómo funcionan los bits?
 Un registro tiene un tamaño fijo. Ese tamaño determina cuánta información puede "copiar" de una sola vez:
