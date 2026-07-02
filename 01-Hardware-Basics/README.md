@@ -2,9 +2,9 @@
 
 ## Índice
 
-**1.** [¿Qué es un Procesador?](#1-qué-es-un-procesador)   
-**2.** [Arquitectura Interna - Registros](#1-arquitectura-interna-registros)   
-**3.** [Bus de Datos](#3-bus-de-datos)
+**1.** ¿Qué es un Procesador? 
+**2.** Arquitectura Interna - Registros
+**3.** Bus de Datos
 
 ## **1.** ¿Qué es un Procesador?
 
@@ -21,7 +21,7 @@ Un procesador tiene contenido dentro que se llaman **registros** pero para nosot
 
 Los registros son **estanterías fijas** dentro de la CPU donde se guardan los datos para trabajar. No se mueven; lo que cambia es su contenido (se copia y se sobrescribe).
 
-![Registro](Registro.png)
+![Registro](Registro.png)   
 ![Concepto-CPU](Concepto-CPU.png)
 
 ### ¿Cómo funcionan los bits?
