@@ -14,7 +14,7 @@ La programación en C++ para embebidos no es "escribir código", es **gestionar 
 
 Primero de todo C/C++ es uno de los lenguajes mas potentes y rapidos que existe actualmente. A eso se la llama lenguaje de bajo nivel que signigica que no se parece al idioma del ser humano. Mira esta imagen para que entiendas como se diferencia los lenguajes de programaccion.:
 
-![imagen Visual Guia](.png)
+![imagen Visual Guia](https://raw.githubusercontent.com/12moontero/Embedded-Systems-Theory/refs/heads/main/02-C-Language/assets/GU%C3%8DA%20NIVEL%20DE%20LENGUAJES.png)
 
 Lo que vas a aprender es el 20% - 30% de lo que es en realidad C/C++, lo que voy a enseñar aqui es todo eso poco a poco, para no perderte.
 
