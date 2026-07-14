@@ -6,7 +6,3 @@ En este repositorio voy a poner todo lo que voy a aprender por si se me olvida e
 - 01-Hardware Basics: Qué es un procesador, registros, bits y la autopista de datos.
 
 - 02-C-Language: Punteros, gestión de memoria y lógica binaria (AND/OR/XOR).
-
-- 03-Embedded-Patterns: Cómo programar sin Windows (Interrupciones, estados, temporizadores).
-
-- 04-Advanced-Concepts: Comunicación entre chips (I2C, SPI) y arquitectura avanzada.
