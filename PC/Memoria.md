@@ -17,4 +17,4 @@ Esta memoria es como la mesa donde trabaja, donde todo lo que usa lo pone aquí 
 La diferencia de esta memoria es que es más rápida que la FLASH. 
 
 ### Esta es una imagen visual de lo que es:
-![Imagen Memorias](https://raw.githubusercontent.com/12moontero/Embedded-Systems-Theory/refs/heads/main/01-Hardware-Basics/assets/MEMORIA.png)
+![Imagen Memorias](https://raw.githubusercontent.com/12moontero/Basic-guide/refs/heads/main/PC/assets/Memoria/MEMORIA.png)
