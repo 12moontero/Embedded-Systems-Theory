@@ -21,8 +21,8 @@ Un procesador tiene contenido dentro que se llaman **registros** pero para nosot
 
 Los registros son **estanterías fijas** dentro de la CPU donde se guardan los datos para trabajar. No se mueven; lo que cambia es su contenido (se copia y se sobrescribe).
 
-![Registro](https://raw.githubusercontent.com/12moontero/Embedded-Systems-Theory/refs/heads/main/01-Hardware-Basics/assets/Registro.png)     
-![Concepto-CPU](https://raw.githubusercontent.com/12moontero/Embedded-Systems-Theory/refs/heads/main/01-Hardware-Basics/assets/Concepto-CPU.png)
+![Registro](https://raw.githubusercontent.com/12moontero/Basic-guide/refs/heads/main/PC/assets/Procesador/Registro.png)     
+![Concepto-CPU](https://raw.githubusercontent.com/12moontero/Basic-guide/refs/heads/main/PC/assets/Procesador/Concepto-CPU.png)
 
 ### ¿Cómo funcionan los bits?
 Un registro tiene un tamaño fijo. Ese tamaño determina cuánta información puede "copiar" de una sola vez:
@@ -39,7 +39,7 @@ Un registro tiene un tamaño fijo. Ese tamaño determina cuánta información pu
 
 El **Bus de Datos** es el peaje por donde viajan las bolas (bits) de información. El número de carriles de este peaje es exactamente el mismo que con el tamaño de los registros.
 
-![Bus de datos](https://raw.githubusercontent.com/12moontero/Embedded-Systems-Theory/refs/heads/main/01-Hardware-Basics/assets/BUS-datos-Dise%C3%B1o.png)
+![Bus de datos](https://raw.githubusercontent.com/12moontero/Basic-guide/refs/heads/main/PC/assets/Procesador/BUS-datos-Dise%C3%B1o.png)
 
 Existen dos tipos de buses:
 
